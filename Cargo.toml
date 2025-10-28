@@ -2,7 +2,7 @@
 name = "oxmon"
 description = "Wrapper that reports command success or failure via webhook"
 keywords = ["monitor", "wrapper", "webhook"]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "MIT"
 authors = ["Florian Pallas"]
